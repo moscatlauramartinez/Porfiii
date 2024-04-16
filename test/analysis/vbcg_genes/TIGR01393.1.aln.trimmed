@@ -1,0 +1,87 @@
+>Cc_13_metabat2_bins_bin.1_1105.fa.faa_Cc_13k141_174371_length_57167_cov_11.0000_52 Cc_13k141_174371_length_57167_cov_11.0000_52 # 51083 # 52885 # -1 # ID=8_52;partial=00;start_type=ATG;rbs_motif=AAA;rbs_spacer=4bp;gc_cont=0.403
+ITAQIKSVRDCNVGDTITHERD------PCDVALPGFVPSVPVVFCGLFPSDQGQFELLR
+DSLEKLSLNDSSFHFEQEGSAALGLG
+>Cc_16_maxbin2_bins_bin.3_1168.fa.faa_Cc_16k141_34917_length_91000_cov_11.0000_dup_83 Cc_16k141_34917_length_91000_cov_11.0000_dup_83 # 89118 # 90920 # 1 # ID=10_83;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.403
+ITAQIKSVRDCNVGDTITHERD------PCDVALPGFVPSVPVVFCGLFPSDQGQFELLR
+DSLEKLSLNDSSFHFEQEGSAALGLG
+>Cc_2_maxbin2_bins_bin.2_964.fa.faa_Cc_2_k141_41940_length_78105_cov_11.0000_dup_dup_dup_1 Cc_2_k141_41940_length_78105_cov_11.0000_dup_dup_dup_1 # 83 # 1885 # -1 # ID=274_1;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.403
+ITAQIKSVRDCNVGDTITHERD------PCDVALPGFVPSVPVVFCGLFPSDQGQFELLR
+DSLEKLSLNDSSFHFEQEGSAALGLG
+>Cc_7_maxbin2_bins_bin.2_1030.fa.faa_Cc_7_k141_202489_length_5625_cov_11.0000_dup_4 Cc_7_k141_202489_length_5625_cov_11.0000_dup_4 # 3762 # 5564 # 1 # ID=255_4;partial=00;start_type=ATG;rbs_motif=AAA;rbs_spacer=4bp;gc_cont=0.403
+ITAQIKSVRDCNVGDTITHERD------PCDVALPGFVPSVPVVFCGLFPSDQGQFELLR
+DSLEKLSLNDSSFHFEQEGSAALGLG
+>Cc_9_metabat2_bins_bin.1_1034.fa.faa_Cc_9_k141_202489_length_5625_cov_11.0000_4 Cc_9_k141_202489_length_5625_cov_11.0000_4 # 3762 # 5564 # 1 # ID=38_4;partial=00;start_type=ATG;rbs_motif=AAA;rbs_spacer=4bp;gc_cont=0.403
+ITAQIKSVRDCNVGDTITHERD------PCDVALPGFVPSVPVVFCGLFPSDQGQFELLR
+DSLEKLSLNDSSFHFEQEGSAALGLG
+>Po_8_binsA_bin.5.fa.faa_Po_8__k141_359883_length_4599_cov_4.9157_5 Po_8__k141_359883_length_4599_cov_4.9157_5 # 2952 # 4598 # -1 # ID=211_5;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.588
+ITASIKQVRDTKVGDTITTEKK------GAEEPLEGFKPSQPVVFCGLFPVDSAEFEDLR
+GAIEKLALNDASFSYEMETSAALGFG
+>Po_3_binsA_bin.8.fa.faa_Po_3__k141_3117296_length_4113_cov_7.0000_4 Po_3__k141_3117296_length_4113_cov_7.0000_4 # 2284 # 4083 # 1 # ID=328_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+ITASIKQVRDTKVGDTITHEKK------GCDKPLPGFNPSIPVVFCGLFPVDSAEFEDLR
+GAIEKLALNDASFSYEMETSAALGFG
+>Po_4_binsB_bin.10.fa.faa_Po_4__k141_3117296_length_4113_cov_7.0000_4 Po_4__k141_3117296_length_4113_cov_7.0000_4 # 2284 # 4083 # 1 # ID=325_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+ITASIKQVRDTKVGDTITHEKK------GCDKPLPGFNPSIPVVFCGLFPVDSAEFEDLR
+GAIEKLALNDASFSYEMETSAALGFG
+>Po_7_binsA_bin.4.fa.faa_Po_7__k141_1247456_length_3458_cov_6.0000_2 Po_7__k141_1247456_length_3458_cov_6.0000_2 # 754 # 2553 # 1 # ID=358_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+ITASIKQVRDTKVGDTITHEKK------GCDKPLPGFNPSIPVVFCGLFPVDSAEFEDLR
+GAIEKLALNDASFSYEMETSAALGFG
+>Po_9_binsB_bin.7.fa.faa_Po_9__k141_1247456_length_3458_cov_6.0000_2 Po_9__k141_1247456_length_3458_cov_6.0000_2 # 754 # 2553 # 1 # ID=359_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+ITASIKQVRDTKVGDTITHEKK------GCDKPLPGFNPSIPVVFCGLFPVDSAEFEDLR
+GAIEKLALNDASFSYEMETSAALGFG
+>Po_2_binsA_bin.3.fa.faa_Po_2__k141_123332_length_88552_cov_8.9980_86 Po_2__k141_123332_length_88552_cov_8.9980_86 # 80790 # 82592 # -1 # ID=11_86;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.583
+LTASIKQVRDTKVGDTITHERR------QCEKPLPGFKPSVPVVFCGLFPVDANDFEDMR
+DAIEKLALNDASFTAEMETSAALGFG
+>Po_6_binsB_bin.7.fa.faa_Po_6__k141_123332_length_88552_cov_8.9980_86 Po_6__k141_123332_length_88552_cov_8.9980_86 # 80790 # 82592 # -1 # ID=9_86;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.583
+LTASIKQVRDTKVGDTITHERR------QCEKPLPGFKPSVPVVFCGLFPVDANDFEDMR
+DAIEKLALNDASFTAEMETSAALGFG
+>Cc_6_concoct_bins_bin.25_1027.fa.faa_Cc_6_k141_43798_length_1427_cov_5.0000_dup_2 Cc_6_k141_43798_length_1427_cov_5.0000_dup_2 # 418 # 1425 # 1 # ID=2530_2;partial=01;start_type=ATG;rbs_motif=AATAA;rbs_spacer=10bp;gc_cont=0.346
+LITGIKTAKEVKVGDTITDAAN------PTQEIIDGFEDVKPMVFAGIYPVDTEDYEALR
+YSMEKLQLNDASLVFQPESSAALGFG
+>Cc_1_concoct_bins_bin.0_961.fa.faa_Cc_1_k141_283923_length_1527_cov_4.0000_dup_dup_1 Cc_1_k141_283923_length_1527_cov_4.0000_dup_dup_1 # 2 # 1321 # 1 # ID=2142_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.343
+LITGIKTAKEVKVGDTITDAAK------PTQEIIDGFEDVKPMVFAGIYPVDTEDYEELR
+YSMEKLQLNDASLVFVPESSAALGFG
+>Cc_15_concoct_bins_bin.5_1164.fa.faa_Cc_15k141_119993_length_3019_cov_4.5208_dup_dup_1 Cc_15k141_119993_length_3019_cov_4.5208_dup_dup_1 # 3 # 1031 # 1 # ID=905_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.342
+LITGIKTAKEVKVGDTITDAAN------PTQEIIDGFEDVKPMVFAGIYPVDTEDYEELR
+YSMEKLQLNDASLVFVPESSAALGFG
+>Cc_11_concoct_bins_bin.31_1098.fa.faa_Cc_11k141_28168_length_1925_cov_4.0000_dup_2 Cc_11k141_28168_length_1925_cov_4.0000_dup_2 # 290 # 1924 # -1 # ID=1494_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.342
+LITGIKTAKEVKVGDTITDAAN------PTQEIIDGFEDVKPMVFAGIYPVDTEDYEELR
+YSMEKLQLNDASLVFVPESSAALGFG
+>Cc_12_maxbin2_bins_bin.3_1102.fa.faa_Cc_12k141_306909_length_72647_cov_8.9976_dup_dup_48 Cc_12k141_306909_length_72647_cov_8.9976_dup_dup_48 # 55151 # 56956 # 1 # ID=18_48;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=8bp;gc_cont=0.389
+LAASIKDISDTKIGDTITLSNN------PAQEPLQGYEDSKPMVFCGIYPIDSSEYPLLK
+EALAKLSLNDSSISYEPETSVALGFG
+>Cc_17_maxbin2_bins_bin.4_1169.fa.faa_Cc_17k141_141241_length_54750_cov_8.9968_dup_dup_dup_32 Cc_17k141_141241_length_54750_cov_8.9968_dup_dup_dup_32 # 37253 # 39058 # 1 # ID=26_32;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=8bp;gc_cont=0.389
+LAASIKDISDTKIGDTITLSNN------PAQEPLQGYEDSKPMVFCGIYPIDSSEYPLLK
+EALAKLSLNDSSISYEPETSVALGFG
+>Cc_19_metabat2_bins_bin.3_1174.fa.faa_Cc_19k141_141241_length_54750_cov_8.9968_dup_dup_dup_32 Cc_19k141_141241_length_54750_cov_8.9968_dup_dup_dup_32 # 37253 # 39058 # 1 # ID=19_32;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=8bp;gc_cont=0.389
+LAASIKDISDTKIGDTITLSNN------PAQEPLQGYEDSKPMVFCGIYPIDSSEYPLLK
+EALAKLSLNDSSISYEPETSVALGFG
+>Cc_10_metabat2_bins_bin.3_1036.fa.faa_Cc_10k141_292917_length_35539_cov_8.9950_dup_dup_dup_16 Cc_10k141_292917_length_35539_cov_8.9950_dup_dup_dup_16 # 18041 # 19846 # 1 # ID=25_16;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=8bp;gc_cont=0.389
+LAASIKDISDTKIGDTITLSNN------PAQEPLQGYEDSKPMVFCGIYPIDSSEYPLLK
+EALAKLSLNDSSISYEPETSVALGFG
+>Cc_14_metabat2_bins_bin.3_1107.fa.faa_Cc_14k141_306909_length_72647_cov_8.9976_dup_dup_dup_48 Cc_14k141_306909_length_72647_cov_8.9976_dup_dup_dup_48 # 55151 # 56956 # 1 # ID=11_48;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=8bp;gc_cont=0.389
+LAASIKDISDTKIGDTITLSNN------PAQEPLQGYEDSKPMVFCGIYPIDSSEYPLLK
+EALAKLSLNDSSISYEPETSVALGFG
+>Cc_3_maxbin2_bins_bin.3_965.fa.faa_Cc_3_k141_157813_length_39497_cov_9.0000_dup_6 Cc_3_k141_157813_length_39497_cov_9.0000_dup_6 # 5824 # 7629 # -1 # ID=36_6;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=8bp;gc_cont=0.389
+LAASIKDISDTKIGDTITLSNN------PAQEPLQGYEDSKPMVFCGIYPIDSSEYPLLK
+EALAKLSLNDSSISYEPETSVALGFG
+>Cc_4_metabat2_bins_bin.3_969.fa.faa_Cc_4_k141_157813_length_39497_cov_9.0000_dup_dup_dup_6 Cc_4_k141_157813_length_39497_cov_9.0000_dup_dup_dup_6 # 5824 # 7629 # -1 # ID=28_6;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=8bp;gc_cont=0.389
+LAASIKDISDTKIGDTITLSNN------PAQEPLQGYEDSKPMVFCGIYPIDSSEYPLLK
+EALAKLSLNDSSISYEPETSVALGFG
+>Cc_8_maxbin2_bins_bin.3_1031.fa.faa_Cc_8_k141_292917_length_35539_cov_8.9950_16 Cc_8_k141_292917_length_35539_cov_8.9950_16 # 18041 # 19846 # 1 # ID=26_16;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=8bp;gc_cont=0.389
+LAASIKDISDTKIGDTITLSNN------PAQEPLQGYEDSKPMVFCGIYPIDSSEYPLLK
+EALAKLSLNDSSISYEPETSVALGFG
+>ERR2190369_PRJEB23312_WGS_Illumina_HiSeq_2500_Fungia_fungites_megahit_prok_bins_maxbin2_bins_bin.2_370.fa.faa_Ff_mxb2_k141_1182379_length_16094_cov_10.0000_dup_dup_dup_16 Ff_mxb2_k141_1182379_length_16094_cov_10.0000_dup_dup_dup_16 # 13075 # 14883 # -1 # ID=93_16;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=11-12bp;gc_cont=0.622
+IIAGIKELKAAKVGDTITLEKKLPNNLGPATEALPGFKEIKPQVFAGLYPTEASEYDQLR
+DALEKLQLNDSSLQFEPEVSQALGFG
+>ERR2191367_PRJEB23333_WGS_Illumina_HiSeq_1500_Galaxea_fascicularis_megahit_prok_bins_metabat2_bins_bin.7_550.fa.faa_Gf_metb2_k141_378726_length_81984_cov_11.0000_dup_dup_dup_64 Gf_metb2_k141_378726_length_81984_cov_11.0000_dup_dup_dup_64 # 62018 # 63826 # -1 # ID=3_64;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=11-12bp;gc_cont=0.622
+IIAGIKELKAAKVGDTITLEKKLPNNLGPATEALPGFKEIKPQVFAGLYPTEASEYDQLR
+DALEKLQLNDSSLQFEPEVSQALGFG
+>Po_1_binsA_bin.2.fa.faa_Po_1__k141_329350_length_206228_cov_13.0000_156 Po_1__k141_329350_length_206228_cov_13.0000_156 # 180916 # 182724 # 1 # ID=2_156;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=11-12bp;gc_cont=0.621
+IIAGIKELKAAKVGDTITLEKKLPNNLGPATEALPGFKEIKPQVFAGLYPTEASEYDQLR
+DALEKLQLNDSSLQFEPEVSQALGFG
+>Po_5_binsB_bin.5.fa.faa_Po_5__k141_329350_length_206228_cov_13.0000_156 Po_5__k141_329350_length_206228_cov_13.0000_156 # 180916 # 182724 # 1 # ID=3_156;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=11-12bp;gc_cont=0.621
+IIAGIKELKAAKVGDTITLEKKLPNNLGPATEALPGFKEIKPQVFAGLYPTEASEYDQLR
+DALEKLQLNDSSLQFEPEVSQALGFG
+>ERR2190369_PRJEB23312_WGS_Illumina_HiSeq_2500_Fungia_fungites_megahit_prok_bins_metabat2_bins_bin.3_374.fa.faa_Ff_metb2_k141_1011082_length_12171_cov_12.0000_5 Ff_metb2_k141_1011082_length_12171_cov_12.0000_5 # 5856 # 7649 # 1 # ID=162_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+VTASIKDVHGAPVGDTLTLAGD------PAPKPLPGFQEMQPRVFAGLFPVDAEDYPDLR
+EALDKLRLNDAALRFEPESSEAMGFG

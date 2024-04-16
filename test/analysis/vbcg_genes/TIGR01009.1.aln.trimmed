@@ -1,0 +1,48 @@
+>Cc_15_concoct_bins_bin.5_1164.fa.faa_Cc_15k141_119303_length_1131_cov_4.0000_dup_1 Cc_15k141_119303_length_1131_cov_4.0000_dup_1 # 3 # 491 # 1 # ID=3400_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.354
+INIFEIKRPELDAKLVAASVARQIENRISYKRATK
+>Cc_1_concoct_bins_bin.0_961.fa.faa_Cc_1_k141_29840_length_1234_cov_4.0000_dup_4 Cc_1_k141_29840_length_1234_cov_4.0000_dup_4 # 831 # 1232 # 1 # ID=2949_4;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.336
+INIFEIKRPELDAKLVAASVARQIENRISYKRATK
+>Cc_12_maxbin2_bins_bin.3_1102.fa.faa_Cc_12k141_60296_length_25380_cov_9.9440_dup_dup_22 Cc_12k141_60296_length_25380_cov_9.9440_dup_dup_22 # 19782 # 20432 # 1 # ID=40_22;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356
+LNIKEVKKPEIDAQLIAFNIAQQLERRVAFRRVIK
+>Cc_17_maxbin2_bins_bin.4_1169.fa.faa_Cc_17k141_4389_length_28831_cov_9.9507_dup_dup_dup_26 Cc_17k141_4389_length_28831_cov_9.9507_dup_dup_dup_26 # 23233 # 23883 # 1 # ID=40_26;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356
+LNIKEVKKPEIDAQLIAFNIAQQLERRVAFRRVIK
+>Cc_19_metabat2_bins_bin.3_1174.fa.faa_Cc_19k141_4389_length_28831_cov_9.9507_dup_dup_dup_26 Cc_19k141_4389_length_28831_cov_9.9507_dup_dup_dup_26 # 23233 # 23883 # 1 # ID=32_26;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356
+LNIKEVKKPEIDAQLIAFNIAQQLERRVAFRRVIK
+>Cc_10_metabat2_bins_bin.3_1036.fa.faa_Cc_10k141_16296_length_43300_cov_10.9655_dup_dup_dup_39 Cc_10k141_16296_length_43300_cov_10.9655_dup_dup_dup_39 # 37710 # 38360 # 1 # ID=21_39;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356
+LNIKEVKKPEIDAQLIAFNIAQQLERRVAFRRVIK
+>Cc_3_maxbin2_bins_bin.3_965.fa.faa_Cc_3_k141_153162_length_61531_cov_8.9775_dup_13 Cc_3_k141_153162_length_61531_cov_8.9775_dup_13 # 4943 # 5593 # -1 # ID=25_13;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.358
+LNIKEVKKPEIDAQLIAFNIAQQLERRVAFRRVIK
+>Cc_4_metabat2_bins_bin.3_969.fa.faa_Cc_4_k141_153162_length_61531_cov_8.9775_dup_dup_dup_13 Cc_4_k141_153162_length_61531_cov_8.9775_dup_dup_dup_13 # 4943 # 5593 # -1 # ID=17_13;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.358
+LNIKEVKKPEIDAQLIAFNIAQQLERRVAFRRVIK
+>Cc_8_maxbin2_bins_bin.3_1031.fa.faa_Cc_8_k141_16296_length_43300_cov_10.9655_39 Cc_8_k141_16296_length_43300_cov_10.9655_39 # 37710 # 38360 # 1 # ID=21_39;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356
+LNIKEVKKPEIDAQLIAFNIAQQLERRVAFRRVIK
+>ERR2191367_PRJEB23333_WGS_Illumina_HiSeq_1500_Galaxea_fascicularis_megahit_prok_bins_metabat2_bins_bin.7_550.fa.faa_Gf_metb2_k141_1134296_length_35470_cov_8.9456_dup_dup_dup_9 Gf_metb2_k141_1134296_length_35470_cov_8.9456_dup_dup_dup_9 # 3741 # 4613 # 1 # ID=45_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.616
+VNIEEVRKPEIDAKLIADSICQQLEKRIMFRRAMK
+>Po_1_binsA_bin.2.fa.faa_Po_1__k141_1881757_length_37658_cov_12.9951_44 Po_1__k141_1881757_length_37658_cov_12.9951_44 # 32971 # 33843 # -1 # ID=57_44;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.616
+VNIEEVRKPEIDAKLIADSICQQLEKRIMFRRAMK
+>Po_5_binsB_bin.5.fa.faa_Po_5__k141_1881757_length_37658_cov_12.9951_44 Po_5__k141_1881757_length_37658_cov_12.9951_44 # 32971 # 33843 # -1 # ID=60_44;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.616
+VNIEEVRKPEIDAKLIADSICQQLEKRIMFRRAMK
+>Cc_11_concoct_bins_bin.31_1098.fa.faa_Cc_11k141_166349_length_1307_cov_3.0000_1 Cc_11k141_166349_length_1307_cov_3.0000_1 # 1 # 387 # 1 # ID=2793_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.499
+VQITEVRKPELDAVLVAEGIAQQLERRVAFRRAMR
+>Cc_6_concoct_bins_bin.25_1027.fa.faa_Cc_6_k141_262183_length_3534_cov_5.0000_dup_dup_dup_9 Cc_6_k141_262183_length_3534_cov_5.0000_dup_dup_dup_9 # 2965 # 3534 # -1 # ID=868_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.495
+VQITEVRKPELDAVLVAEGIAQQLERRVAFRRAMR
+>Cc_16_maxbin2_bins_bin.3_1168.fa.faa_Cc_16k141_33728_length_11480_cov_10.9806_dup_9 Cc_16k141_33728_length_11480_cov_10.9806_dup_9 # 3729 # 4397 # 1 # ID=40_9;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.441
+LNIVEVRKPDLDSKLVAESVAQQLERRVTFRRAMK
+>Cc_2_maxbin2_bins_bin.2_964.fa.faa_Cc_2_k141_198470_length_11308_cov_10.9803_dup_dup_dup_9 Cc_2_k141_198470_length_11308_cov_10.9803_dup_dup_dup_9 # 3729 # 4397 # 1 # ID=301_9;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.441
+LNIVEVRKPDLDSKLVAESVAQQLERRVTFRRAMK
+>Cc_5_metabat2_bins_bin.4_970.fa.faa_Cc_5_k141_198470_length_11308_cov_10.9803_9 Cc_5_k141_198470_length_11308_cov_10.9803_9 # 3729 # 4397 # 1 # ID=28_9;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.441
+LNIVEVRKPDLDSKLVAESVAQQLERRVTFRRAMK
+>Cc_7_maxbin2_bins_bin.2_1030.fa.faa_Cc_7_k141_218369_length_33247_cov_10.9934_dup_9 Cc_7_k141_218369_length_33247_cov_10.9934_dup_9 # 3729 # 4397 # 1 # ID=231_9;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.441
+LNIVEVRKPDLDSKLVAESVAQQLERRVTFRRAMK
+>Cc_9_metabat2_bins_bin.1_1034.fa.faa_Cc_9_k141_218369_length_33247_cov_10.9934_9 Cc_9_k141_218369_length_33247_cov_10.9934_9 # 3729 # 4397 # 1 # ID=18_9;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.441
+LNIVEVRKPDLDSKLVAESVAQQLERRVTFRRAMK
+>Po_3_binsA_bin.8.fa.faa_Po_3__k141_379869_length_2564_cov_6.0000_3 Po_3__k141_379869_length_2564_cov_6.0000_3 # 700 # 1407 # 1 # ID=531_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.638
+LNIVEVRKPELDAQLVAESIAQQLERRVSFRRAMK
+>Po_4_binsB_bin.10.fa.faa_Po_4__k141_379869_length_2564_cov_6.0000_3 Po_4__k141_379869_length_2564_cov_6.0000_3 # 700 # 1407 # 1 # ID=519_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.638
+LNIVEVRKPELDAQLVAESIAQQLERRVSFRRAMK
+>Po_7_binsA_bin.4.fa.faa_Po_7__k141_1346523_length_27305_cov_7.3919_31 Po_7__k141_1346523_length_27305_cov_7.3919_31 # 25359 # 26066 # 1 # ID=16_31;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.640
+LNIVEVRKPELDAQLVAESIAQQLERRVSFRRAMK
+>Po_9_binsB_bin.7.fa.faa_Po_9__k141_1346523_length_27305_cov_7.3919_31 Po_9__k141_1346523_length_27305_cov_7.3919_31 # 25359 # 26066 # 1 # ID=16_31;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.640
+LNIVEVRKPELDAQLVAESIAQQLERRVSFRRAMK
+>Po_8_binsA_bin.5.fa.faa_Po_8__k141_1311424_length_8336_cov_5.9579_4 Po_8__k141_1311424_length_8336_cov_5.9579_4 # 1767 # 2480 # -1 # ID=44_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.601
+LNIVEVRKPELDAQLVAESIAQQLERRVSFRRAMK

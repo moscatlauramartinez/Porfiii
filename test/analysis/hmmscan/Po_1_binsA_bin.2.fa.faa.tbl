@@ -1,0 +1,32 @@
+#                                                                                        --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                    accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                          -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+rpsB_bact            TIGR01011.1 Po_1__k141_771663_length_243173_cov_13.0000_72 -            9.6e-99  319.5   0.1   1.1e-98  319.2   0.1   1.0   1   0   0   1   1   1   1 JCVI: 30S ribosomal protein S2
+GTPase_EngA          TIGR03594.1 Po_1__k141_771663_length_243173_cov_13.0000_140 -           1.7e-171  561.2   0.0  1.9e-171  561.1   0.0   1.0   1   0   0   1   1   1   1 JCVI: ribosome biogenesis GTPase Der
+lepA                 TIGR01393.1 Po_1__k141_329350_length_206228_cov_13.0000_156 -           2.7e-297  977.2   2.4    3e-297  977.0   2.4   1.0   1   0   0   1   1   1   1 JCVI: translation elongation factor 4
+Obg_CgtA             TIGR02729.1 Po_1__k141_2069904_length_110631_cov_13.9974_28 -           1.3e-142  464.9   0.0  1.5e-142  464.7   0.0   1.0   1   0   0   1   1   1   1 JCVI: Obg family GTPase CgtA
+prfA                 TIGR00019.1 Po_1__k141_2069904_length_110631_cov_13.9974_36 -           1.6e-155  507.7   0.5  1.8e-155  507.5   0.5   1.0   1   0   0   1   1   1   1 JCVI: peptide chain release factor 1
+IF-2                 TIGR00487.1 Po_1__k141_2575326_length_90408_cov_11.0000_48 -           5.6e-260  854.3  19.9  5.6e-260  854.3  19.9   1.8   2   0   0   2   2   1   1 JCVI: translation initiation factor IF-2
+NusA                 TIGR01953.1 Po_1__k141_2575326_length_90408_cov_11.0000_49 -           2.6e-120  391.7   1.9  3.7e-120  391.2   1.9   1.2   1   0   0   1   1   1   1 JCVI: transcription termination factor NusA
+ffh                  TIGR00959.1 Po_1__k141_773103_length_79316_cov_14.0000_10 -           1.5e-170  557.8  15.9  1.5e-170  557.8  15.9   1.9   2   0   0   2   2   1   1 JCVI: signal recognition particle protein
+TIGR00092            TIGR00092.1 Po_1__k141_773103_length_79316_cov_14.0000_35 -           1.7e-155  507.9   0.0    2e-155  507.7   0.0   1.0   1   0   0   1   1   1   1 JCVI: redox-regulated ATPase YchF
+rpsC_bact            TIGR01009.1 Po_1__k141_1881757_length_37658_cov_12.9951_44 -            6.6e-95  307.1   1.1   7.7e-95  306.9   1.1   1.0   1   0   0   1   1   1   1 JCVI: 30S ribosomal protein S3
+rplB_bact            TIGR01171.1 Po_1__k141_1881757_length_37658_cov_12.9951_47 -           1.8e-126  411.3  11.2  2.1e-126  411.2  11.2   1.0   1   0   0   1   1   1   1 JCVI: 50S ribosomal protein L2
+L3_bact              TIGR03625.1 Po_1__k141_1881757_length_37658_cov_12.9951_50 -              3e-86  278.7   6.2   3.4e-86  278.5   6.2   1.0   1   0   0   1   1   1   1 JCVI: 50S ribosomal protein L3
+rpoB                 TIGR02013.1 Po_1__k141_1160336_length_33491_cov_14.5622_12 -                  0 1818.4   6.7         0 1818.2   6.7   1.0   1   0   0   1   1   1   1 JCVI: DNA-directed RNA polymerase subunit beta
+rplA_bact            TIGR01169.1 Po_1__k141_1160336_length_33491_cov_14.5622_15 -           2.7e-104  337.8   7.1  3.1e-104  337.6   7.1   1.0   1   0   0   1   1   1   1 JCVI: 50S ribosomal protein L1
+rpsG_bact            TIGR01029.1 Po_1__k141_1160336_length_33491_cov_14.5622_21 -            1.3e-64  207.1   0.6   1.4e-64  207.0   0.6   1.0   1   0   0   1   1   1   1 JCVI: 30S ribosomal protein S7
+rpoA                 TIGR02027.1 Po_1__k141_2065485_length_26545_cov_16.0000_6 -           1.5e-109  356.0   0.0  1.8e-109  355.8   0.0   1.0   1   0   0   1   1   1   1 JCVI: DNA-directed RNA polymerase subunit alpha
+3a0501s007           TIGR00967.1 Po_1__k141_2065485_length_26545_cov_16.0000_11 -           4.2e-134  437.7  18.2    5e-134  437.5  18.2   1.0   1   0   0   1   1   1   1 JCVI: preprotein translocase subunit SecY
+rpsE_bact            TIGR01021.1 Po_1__k141_2065485_length_26545_cov_16.0000_14 -            3.4e-67  215.5   5.0   3.8e-67  215.3   5.0   1.0   1   0   0   1   1   1   1 JCVI: 30S ribosomal protein S5
+Ribosomal_L5         PF00281.22 Po_1__k141_2065485_length_26545_cov_16.0000_19 -            2.4e-29   91.9   1.0   4.2e-29   91.2   1.0   1.4   1   0   0   1   1   1   1 Ribosomal protein L5
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ./analysis//prodigal/Po_1_binsA_bin.2.fa.faa
+# Target file:     /home/master/lmoscat/VBCGtests/test/scripts/vbcg/bin/../lib/vbcg.hmm
+# Option settings: hmmscan -o ./analysis//hmmscan/Po_1_binsA_bin.2.fa.faa.out --tblout ./analysis//hmmscan/Po_1_binsA_bin.2.fa.faa.tbl --noali --cut_tc --cpu 1 /home/master/lmoscat/VBCGtests/test/scripts/vbcg/bin/../lib/vbcg.hmm ./analysis//prodigal/Po_1_binsA_bin.2.fa.faa 
+# Current dir:     /home/master/lmoscat/VBCGtests/test
+# Date:            Tue Apr 16 12:08:07 2024
+# [ok]

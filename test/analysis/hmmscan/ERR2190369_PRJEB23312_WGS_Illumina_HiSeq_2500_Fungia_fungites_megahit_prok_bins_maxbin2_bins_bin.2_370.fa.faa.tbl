@@ -1,0 +1,29 @@
+#                                                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+ffh                  TIGR00959.1 Ff_mxb2_k141_1129173_length_35170_cov_10.0000_dup_dup_dup_10 -           1.5e-170  557.8  15.9  1.5e-170  557.8  15.9   1.9   2   0   0   2   2   1   1 JCVI: signal recognition particle protein
+pheS                 TIGR00468.1 Ff_mxb2_k141_106422_length_30207_cov_11.0000_dup_dup_dup_19 -            1.5e-95  310.4   0.0   4.9e-94  305.4   0.0   2.0   1   1   0   1   1   1   1 JCVI: phenylalanine--tRNA ligase subunit alpha
+rpoB                 TIGR02013.1 Ff_mxb2_k141_202830_length_25471_cov_10.0000_dup_dup_dup_3 -                  0 1818.4   6.7         0 1818.2   6.7   1.0   1   0   0   1   1   1   1 JCVI: DNA-directed RNA polymerase subunit beta
+Ribosomal_L5         PF00281.22 Ff_mxb2_k141_100894_length_25165_cov_10.8991_dup_dup_dup_6 -            2.4e-29   91.9   1.0   4.2e-29   91.2   1.0   1.4   1   0   0   1   1   1   1 Ribosomal protein L5
+rpsE_bact            TIGR01021.1 Ff_mxb2_k141_100894_length_25165_cov_10.8991_dup_dup_dup_11 -            3.4e-67  215.5   5.0   3.8e-67  215.3   5.0   1.0   1   0   0   1   1   1   1 JCVI: 30S ribosomal protein S5
+3a0501s007           TIGR00967.1 Ff_mxb2_k141_100894_length_25165_cov_10.8991_dup_dup_dup_14 -           4.2e-134  437.7  18.2    5e-134  437.5  18.2   1.0   1   0   0   1   1   1   1 JCVI: preprotein translocase subunit SecY
+rpoA                 TIGR02027.1 Ff_mxb2_k141_100894_length_25165_cov_10.8991_dup_dup_dup_19 -           1.5e-109  356.0   0.0  1.8e-109  355.8   0.0   1.0   1   0   0   1   1   1   1 JCVI: DNA-directed RNA polymerase subunit alpha
+lepA                 TIGR01393.1 Ff_mxb2_k141_1182379_length_16094_cov_10.0000_dup_dup_dup_16 -           2.7e-297  977.2   2.4    3e-297  977.0   2.4   1.0   1   0   0   1   1   1   1 JCVI: translation elongation factor 4
+GTPase_EngA          TIGR03594.1 Ff_mxb2_k141_1295707_length_13567_cov_10.0000_dup_dup_dup_8 -           1.7e-171  561.2   0.0  1.9e-171  561.1   0.0   1.0   1   0   0   1   1   1   1 JCVI: ribosome biogenesis GTPase Der
+prfA                 TIGR00019.1 Ff_mxb2_k141_1380109_length_10476_cov_10.0000_dup_dup_dup_2 -           1.6e-155  507.7   0.5  1.8e-155  507.5   0.5   1.0   1   0   0   1   1   1   1 JCVI: peptide chain release factor 1
+Obg_CgtA             TIGR02729.1 Ff_mxb2_k141_1380109_length_10476_cov_10.0000_dup_dup_dup_10 -           1.3e-142  464.9   0.0  1.5e-142  464.7   0.0   1.0   1   0   0   1   1   1   1 JCVI: Obg family GTPase CgtA
+NusA                 TIGR01953.1 Ff_mxb2_k141_360548_length_8403_cov_10.0000_dup_dup_dup_2 -           2.6e-120  391.7   1.9  3.7e-120  391.2   1.9   1.2   1   0   0   1   1   1   1 JCVI: transcription termination factor NusA
+TIGR00092            TIGR00092.1 Ff_mxb2_k141_433683_length_8247_cov_10.0000_dup_dup_dup_2 -           1.7e-155  507.9   0.0    2e-155  507.7   0.0   1.0   1   0   0   1   1   1   1 JCVI: redox-regulated ATPase YchF
+IF-2                 TIGR00487.1 Ff_mxb2_k141_1318663_length_7837_cov_10.0000_dup_dup_dup_8 -           7.4e-240  787.9  13.5  8.2e-240  787.7  13.5   1.0   1   0   0   1   1   1   1 JCVI: translation initiation factor IF-2
+pheS                 TIGR00468.1 Ff_mxb2_k141_1085710_length_3604_cov_6.0000_dup_dup_dup_4 -            1.7e-94  306.9   0.2     2e-92  300.1   0.2   2.0   1   1   0   1   1   1   1 JCVI: phenylalanine--tRNA ligase subunit alpha
+prfA                 TIGR00019.1 Ff_mxb2_k141_990032_length_1657_cov_5.0000_dup_dup_dup_2 -           7.7e-156  508.7   0.0  9.4e-156  508.4   0.0   1.0   1   0   0   1   1   1   1 JCVI: peptide chain release factor 1
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ./analysis//prodigal/ERR2190369_PRJEB23312_WGS_Illumina_HiSeq_2500_Fungia_fungites_megahit_prok_bins_maxbin2_bins_bin.2_370.fa.faa
+# Target file:     /home/master/lmoscat/VBCGtests/test/scripts/vbcg/bin/../lib/vbcg.hmm
+# Option settings: hmmscan -o ./analysis//hmmscan/ERR2190369_PRJEB23312_WGS_Illumina_HiSeq_2500_Fungia_fungites_megahit_prok_bins_maxbin2_bins_bin.2_370.fa.faa.out --tblout ./analysis//hmmscan/ERR2190369_PRJEB23312_WGS_Illumina_HiSeq_2500_Fungia_fungites_megahit_prok_bins_maxbin2_bins_bin.2_370.fa.faa.tbl --noali --cut_tc --cpu 1 /home/master/lmoscat/VBCGtests/test/scripts/vbcg/bin/../lib/vbcg.hmm ./analysis//prodigal/ERR2190369_PRJEB23312_WGS_Illumina_HiSeq_2500_Fungia_fungites_megahit_prok_bins_maxbin2_bins_bin.2_370.fa.faa 
+# Current dir:     /home/master/lmoscat/VBCGtests/test
+# Date:            Tue Apr 16 12:08:09 2024
+# [ok]
